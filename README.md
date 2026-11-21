@@ -79,3 +79,23 @@ java -cp out app.Main
 # Ejecutar pruebas automatizadas (Anexo 5 — 34/34 pruebas superadas)
 java -cp out pruebas.PruebasRedSocial
 ```
+
+---
+
+## Evidencias de ejecución (Anexos 1 a 5)
+
+### Anexo 1 · `registrarPersona` y `mostrarRed`
+![Anexo 1](evidencias/anexo1_registro_y_mostrarRed.png)
+
+### Anexo 2 · Amistades, seguimientos y validaciones
+![Anexo 2](evidencias/anexo2_amistades_y_seguimientos.png)
+
+### Anexo 3 · `eliminarAmistad` y `eliminarPersona`
+![Anexo 3](evidencias/anexo3_eliminarAmistad_y_eliminarPersona.png)
+
+### Anexo 4 · `listarAmigos`, `listarSeguidos`, `listarSeguidores` y `contarAmigos`
+![Anexo 4](evidencias/anexo4_consultas_y_contarAmigos.png)
+
+### Anexo 5 · Pruebas automatizadas (34/34 OK) e historial Git
+![Anexo 5](evidencias/anexo5_pruebas_y_github.png)
+
